@@ -1,0 +1,30 @@
+{
+   "info":{
+      "url_png_icon_64x64":"https://github.com/scifipool/scifi-pool/blob/main/scifi-pool-logo-64px.png?raw=true",
+      "url_png_logo":"https://github.com/scifipool/scifi-pool/blob/main/scifi-pool-logo.png?raw=true",
+      "location":"Third Stone from the Sun (for the time being)",
+      "social":{
+         "email":"sayos@scifipool.com",
+         "twitter_handle":"scifi_pool",
+         "telegram_handle":"t.me/scifipool",
+         "discord_handle":"https://discord.gg/kzHsEQMJbt",
+         "github_handle":"scifipool"
+      },
+      "about":{
+         "me":"Engineer and Sci-Fi enthusiast. I believe that Cardano will be a huge technological advancement for mankind and will shift the way the world functions today.",
+         "server":"100% on-premises, 1,000Mbps fiber connection",
+         "company":"Bridging the gap between Sci-Fi and reality!"
+      },
+      "rss":""
+   },
+   "my-pool-ids":{
+      "0":"fcf13d74e6245bb53e3b3bee3ab6a0dd23752bb53e550f3e2228065c"
+   },
+   "when-satured-then-recommend":{
+      "0":"",
+      "1":""
+   },
+   "telegram-admin-handle":{
+      "0":"@scifi_pool"
+   }
+}
