@@ -1,7 +1,7 @@
-{ 
-"name": "SCIFI Pool", 
-"description": "“I Am Completely Operational, And All My Circuits Are Functioning Perfectly”: 2001: A Space Odyssey", 
-"ticker": "SCIFI", 
-"homepage": "scifipool.com", 
-"extended": "https://raw.githubusercontent.com/scifipool/scifi-pool/main/poolExtendedMetaData.json" 
-} 
+{
+"name": "SCIFI Pool",
+"description": "“I Am Completely Operational, And All My Circuits Are Functioning Perfectly”: 2001: A Space Odyssey",
+"ticker": "SCIFI",
+"homepage": "scifipool.com",
+"extended": "https://raw.githubusercontent.com/scifipool/scifi-pool/main/poolExtendedMetaData.json"
+}
